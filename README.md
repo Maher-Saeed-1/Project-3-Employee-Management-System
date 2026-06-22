@@ -16,9 +16,13 @@ The application also supports multiple display styles through the ListView contr
 🎯 Project Objectives
 The main objectives of this project are:
 ✅ Practice developing desktop applications using Windows Forms.
+
 ✅ Understand how to work with the ListView control and its different view modes.
+
 ✅ Implement CRUD operations (Create, Read, Update, Delete).
+
 ✅ Improve skills in event-driven programming.
+
 ✅ Build a clean and interactive graphical user interface (GUI).
 
 
