@@ -46,6 +46,9 @@ Show detailed information of the selected employee for quick review.
 🏗️ Architecture
 The application follows a simple structure:
 Plain text
+
+
+
 ┌─────────────────────┐
 │   Windows Forms UI  │
 └──────────┬──────────┘
@@ -61,6 +64,9 @@ Plain text
 │ Employee Collection │
 │   & ListView Data   │
 └─────────────────────┘
+
+
+
 Components
 Windows Forms User Interface
 Event Handling Logic
