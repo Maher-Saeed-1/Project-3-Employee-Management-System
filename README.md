@@ -50,19 +50,29 @@ Plain text
 
 
 ┌─────────────────────┐
+
 │   Windows Forms UI  │
+
 └──────────┬──────────┘
            │
            ▼
+           
 ┌─────────────────────┐
+
 │   Event Handling    │
+
 │   User Interaction  │
+
 └──────────┬──────────┘
            │
            ▼
+           
 ┌─────────────────────┐
+
 │ Employee Collection │
+
 │   & ListView Data   │
+
 └─────────────────────┘
 
 
